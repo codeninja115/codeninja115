@@ -7,6 +7,11 @@
 - **Database:** PostgreSQL, MySQL, MongoDB
 - **Tools:** Git, GitHub, Vite, Webpack, Docker
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,tailwind,vite,nodejs,express,python,php,laravel,postgres,mysql,mongodb,redis,linux,docker,kubernetes,nginx,aws,githubactions,git,github,vscode,postman,cypress" />
+</p>
+
+
 ## 🎯 Current Focus
 - Front-end architecture and state management
 - Building performant, accessible UIs
