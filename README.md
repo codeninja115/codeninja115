@@ -3,7 +3,7 @@
 
 ## 🛠 Tech Stack
 - **Frontend:** JavaScript, TypeScript, React, Vue, HTML, CSS, TailWind
-- **Backend:** Node.js, PHP, Laravel, Python
+- **Backend:** Node.js, PHP, Laravel, Python, Java
 - **Database:** PostgreSQL, MySQL, MongoDB
 - **Tools:** Git, GitHub, Vite, Webpack, Docker
 
