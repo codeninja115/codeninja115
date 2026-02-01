@@ -6,6 +6,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nuxtjs,tailwind,vite,nodejs,express,python,php,laravel,postgres,mysql,mongodb,redis,linux,docker,kubernetes,nginx,aws,githubactions,git,github,vscode,postman,cypress" />
 </p>
 
+## 🏅 HackerRank Certificates
+<table>
+	<tr>
+		<td>
+			<a href="https://www.hackerrank.com/certificates/9acc07f97219" target="_blank">
+				<img src="./certifiates/Javascript(Basic).png" alt="Javascript(Basic) Certificate" width="500"/>
+			</a>
+		</td>
+	</tr>
+</table>  
+
 ## 🎯 Current Focus
 - Front-end architecture and state management
 - Building performant, accessible UIs
