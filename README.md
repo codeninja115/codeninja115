@@ -10,13 +10,18 @@
 <table>
 	<tr>
 		<td>
+			<a href="https://www.hackerrank.com/certificates/919fa0c2432f" target="_blank">
+				<img src="./certifiates/Javascript(Intermediate).png" alt="Javascript(Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
 			<a href="https://www.hackerrank.com/certificates/9acc07f97219" target="_blank">
 				<img src="./certifiates/Javascript(Basic).png" alt="Javascript(Basic) Certificate" width="500"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.hackerrank.com/certificates/919fa0c2432f" target="_blank">
-				<img src="./certifiates/Javascript(Intermediate).png" alt="Javascript(Intermediate) Certificate" width="500"/>
+			<a href="https://www.hackerrank.com/certificates/32fdee87910a" target="_blank">
+				<img src="./certifiates/CSS(Basic).png" alt="CSS(Basic) Certificate" width="500"/>
 			</a>
 		</td>
 	</tr>
