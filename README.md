@@ -14,8 +14,6 @@
 				<img src="./certifiates/Javascript(Basic).png" alt="Javascript(Basic) Certificate" width="500"/>
 			</a>
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<a href="https://www.hackerrank.com/certificates/919fa0c2432f" target="_blank">
 				<img src="./certifiates/Javascript(Intermediate).png" alt="Javascript(Intermediate) Certificate" width="500"/>
