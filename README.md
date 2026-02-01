@@ -10,6 +10,11 @@
 <table>
 	<tr>
 		<td>
+			<a href="https://www.hackerrank.com/certificates/863d629000a4" target="_blank">
+				<img src="./certifiates/Frontend Developer(React).png" alt="Frontend Developer(React) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
 			<a href="https://www.hackerrank.com/certificates/c04cdb74f42f" target="_blank">
 				<img src="./certifiates/React(Basic).png" alt="React(Basic) Certificate" width="500"/>
 			</a>
