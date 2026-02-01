@@ -32,6 +32,11 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://www.hackerrank.com/certificates/b7afbbffcb4a" target="_blank">
+				<img src="./certifiates/RestAPI(Intermediate).png" alt="Rest API (Intermediate) Certificate" width="500"/>
+			</a>
+		</td>
+		<td>
 			<a href="https://www.hackerrank.com/certificates/32fdee87910a" target="_blank">
 				<img src="./certifiates/CSS(Basic).png" alt="CSS(Basic) Certificate" width="500"/>
 			</a>
