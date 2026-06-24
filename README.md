@@ -58,3 +58,5 @@
 ## 📫 Contact
 - GitHub: https://github.com/codeninja115
 - Email: codeninja115@gmail.com
+
+<img src="https://komarev.com/ghpvc/?username=codeninja115&label=Profile%20views&color=0e75b6&style=flat" alt="codeninja115" />
